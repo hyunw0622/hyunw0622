@@ -1,16 +1,13 @@
-## Hi there 👋
+[![spotify](https://api.statusbadges.me/badge/spotify/1102166553027432488)](https://api.statusbadges.me/openspotify/1102166553027432488)
 
-<!--
-**hyunw0622/hyunw0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunw0622&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+### 🌐 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,c" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect
+- 📧 Email: hyunw0622@gmail.com
+- 💬 Discord: hyunw0622
+- 🌐 Website: 개발중
