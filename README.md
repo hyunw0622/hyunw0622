@@ -6,7 +6,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,c" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunw0622&layout=compact&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunw0622&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🔗 Connect
 
