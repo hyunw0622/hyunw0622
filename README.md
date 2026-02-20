@@ -10,4 +10,4 @@
 ### 🔗 Connect
 
 [![mail Badge](https://img.shields.io/badge/mail-hyunw0622@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyunw0622@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-hyunw0622-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lambdq)
+[![Discord Badge](https://img.shields.io/badge/Discord-lambdq-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lambdq)
