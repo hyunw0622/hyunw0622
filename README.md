@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,c" />
 </p>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunw0622&langs_count=10&layout=compact&theme=dark)](https://github.com/hyunw0622/hyunw0622)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunw0622&langs_count=10&layout=compact&theme=dark&cache_seconds=0)](https://github.com/hyunw0622)
 ### 🔗 Connect
 
 [![mail Badge](https://img.shields.io/badge/mail-hyunw0622@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyunw0622@gmail.com)
